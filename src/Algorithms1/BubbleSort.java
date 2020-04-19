@@ -1,3 +1,5 @@
+//compare consecutive elements and swap if needed.
+
 package Algorithms1;
 
 import java.util.Scanner;
